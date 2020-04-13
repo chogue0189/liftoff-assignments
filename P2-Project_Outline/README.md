@@ -7,12 +7,13 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I would like to create a workout from home tracker, which will allow users to log their daily exercises. A lot more people are staying at home during this difficult time, which makes it harder to visit the gym. This app will make it easier for those who want to continue their fitness journey, but at home.
 ### Features
-Include Features here
+User will be able to choose between cardio or strength training workouts. For cardio, users will be able to choose a machine from a drop-down menu and select a time limit. For strength training, users will choose an exercise, log number of sets and reps, and be able to add or remove sets. They can also save and name their workouts.
 ### Technologies
-Include Technologies here
+Java, CSS, HTML. I'm not sure what other technologies I'd be using just yet.
 ### What I'll Have to Learn
-Include what you will need to learn here
+To be determined. 
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/NRxaR6OM/untitled
